@@ -1340,7 +1340,7 @@ li.ui-block-e {
 	width: 100%;
 	float: none; 
 }
-/* preset breakpoint to switch to stacked grid styles below 35em (560px) */
+/* preset breakpoint to switch to stacked grid styles.css below 35em (560px) */
 @media (max-width: 35em) {
 	.ui-responsive > .ui-block-a,
 	.ui-responsive > .ui-block-b,
@@ -3135,7 +3135,7 @@ html .ui-popup .ui-field-contain > label + .ui-flipswitch {
 .ui-table-reflow th .ui-table-cell-label { 
 	display: none;
 }
-/* Mobile first styles: Begin with the stacked presentation at narrow widths */ 
+/* Mobile first styles.css: Begin with the stacked presentation at narrow widths */
 @media only all {
 	/* Hide the table headers */ 
 	.ui-table-reflow thead td, 
